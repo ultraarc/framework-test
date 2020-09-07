@@ -1,0 +1,19 @@
+{
+  "name": "framework-test",
+  "version": "1.0.0",
+  "description": "test project for build a framework based on Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ultraarc/framework-test.git"
+  },
+  "author": "Ultra Arc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ultraarc/framework-test/issues"
+  },
+  "homepage": "https://github.com/ultraarc/framework-test#readme"
+}
